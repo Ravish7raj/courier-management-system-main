@@ -1,0 +1,1 @@
+<?php $con =  mysqli_connect("localhost", "root", "" , "speed_delivery_db") or die("Database Connection Fail"); ?>
